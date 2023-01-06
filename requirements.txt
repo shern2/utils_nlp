@@ -1,0 +1,4 @@
+spacy>=3.4.1
+datasets>=2.3.2
+
+psutil>=5.9.2
